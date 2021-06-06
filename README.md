@@ -1,3 +1,3 @@
-# Chat App
+# Text-Me
 
-A simple chat app using react native and firebase.
+This is a chatting app using React native.
